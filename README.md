@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venteury(Vishal)
-- 👀 I’m interested in Android Development and Problem Solving.
-- 🌱 I’m currently learning Android Development and practicing competitive programming.
+- 👀 I’m interested in Development and Problem Solving.
+- 🌱 I’m currently learning Development and practicing competitive programming.
 - 💞️ I’m looking to be hired by any tech giant company 
 - 📫 Contact me:   E-mail     ->  venteury@gmail.com
                    LinkedIn    ->  https://www.linkedin.com/in/venteury 
