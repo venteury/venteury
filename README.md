@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development and Problem Solving.
 - 🌱 I’m currently working as a software engineer @ AICAN Pvt. Ltd.
 - 💻 I know MERN, Redux, SQL, MongoDB, HTML, Javascript, Node.Js, React.Js, Express, Chart.js, Framer Motion, Postgres, Docker, CI/CD 
-     Pipeline, Socket.io, Mqtt, Nextjs, Webrtc, Graphql, Redis, SSR, TypeScript, Grafana, Prometheus, Kubernetes, Kafka
+     Pipeline, Socket.io, Mqtt, Nextjs, Webrtc, Graphql, Redis, SSR, TypeScript, Grafana, Prometheus, Kubernetes, Kafka, Serverless backend, Hono and many more to achieve
 - 💞️ I'd love to work with you; let's connect
 - 📫 Contact me:   E-mail     ->  officialmailakp@gmail.com
                    LinkedIn    ->  https://www.linkedin.com/in/venteury 
